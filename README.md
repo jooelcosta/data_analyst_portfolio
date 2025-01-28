@@ -1,7 +1,5 @@
 ![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen) ![Language](https://img.shields.io/badge/Language-Power%20BI-yellow)
 
-![](https://i.ibb.co/j8x063m/pbi.png)
-
 # Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
