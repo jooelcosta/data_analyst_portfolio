@@ -10,12 +10,16 @@ Como objetivo, ficou definido que deveriamos exploar os dados ja existentes para
 Para ajudar na coleta/criação de dados e construção dos dashboards, foi criado uma planilha separada em duas guias. Uma guia com os indicadores e outra com um mapeamento de dados.
 
 1. Na aba indicadores, tinhamos os seguintes campos: 
-    | Modulo  | Indicador | Formula | Observação |
-    | ------------- | ------------- | ------------- | ------------- | 
+    | Area  | Tipo | Indicador | Formula |
+    | ------------- | ------------- | ------------- | ------------- |
 
-2. Na aba de mapeamento de dados, os campos: 
-    | Indicador  | Campo Indicador | Origem do Dado (se era de um software ou de uma planilha) | Tela | Caminho Para a Tela | Campo da Tela |
-    | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+   ![Indicadores](https://github.com/user-attachments/assets/af207d90-52d3-45a2-b889-25eec2446163)
+
+3. Na aba de mapeamento de dados, os campos: 
+    | Indicador  | Campo Indicador | Origem do Dado (se era de um software ou de uma planilha) | Tabela / Consulta | Campo | Filtros | Caminho Aplicação | Campo
+    | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+
+   ![Mapeamento](https://github.com/user-attachments/assets/bd384a3e-fc59-45fe-b9f8-593137418282)
 
 ## Tecnologias Utilizadas
 - SQL
@@ -38,5 +42,5 @@ A apresentação de visuais ficou bem mais interativa, de fácil entendimento. F
 
 Um exemplo dos dashboards criados:
 
-![Visuais da area de recrutamento e seleção](https://1drv.ms/i/c/46d4eb989a1fd0d6/EfvezS7FxgpEplbWFIXdVoYBwYwke-P0Yy1lZgpT44YgBA?e=af1Uxr)
-![Cartão de Exemplo](https://1drv.ms/i/c/46d4eb989a1fd0d6/EcHgorWInfxCk2VcwremKBsBu6UQ-scms_Y82KFTMTd6Tw?e=j8hc4R)
+![Visuais da area de recrutamento e seleção](https://github.com/user-attachments/assets/3d94a181-c411-426f-9f4a-89b3fdcba037)
+![Cartão de Exemplo](https://github.com/user-attachments/assets/7cbbe4f9-79fa-44e3-a85b-99817634c013)
