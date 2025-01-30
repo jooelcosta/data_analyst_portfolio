@@ -1,19 +1,14 @@
-![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen) ![Language](https://img.shields.io/badge/Language-Power%20BI-yellow)
-
-# Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
+# Portfólio de Projetos
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
-Os Projetos iniciaram com análises de dados utilizando *Business Intelligence* e hoje vem tomando um rumo mais para Inteligência Artificial com a utilização de *Machine Learning*!
 
-*Observação: Os dados são de fontes públicas e o objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.*
+*Observação: Alguns dados são particulares e serão mostrados os prints com informaações ficticias. Também pode conter dados de fontes públicas com o objetivo de testar e colocar em prática o uso de ferramentas e técnicas.*
 
-Aqui encontrará:
-- Projetos de BI em Tableau e Microsoft Power BI
 ------------
 
-|    Nome do Projeto  | Link    | Linguagem    | Fonte de Dados  | Observação  | 
-| ------------        | ------------        | ------------ | ------------    |------------ |
-| **Desafio Kick Start - Power BI Experiencie**| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
+|    Nome do Projeto  |  Linguagem   | Observação  | 
+| ------------        | ------------  | ------------  |
+| [**RH: Gestão de Resultados**](RH_Gestao_Resultados.md) |  Power BI | Uma análises das escolas por tipo, número de alunos e região |
 
 
 ------------
