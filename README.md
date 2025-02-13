@@ -1,8 +1,8 @@
 # Portfólio de Projetos
 
-Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
+Este repositório reúne alguns dos projetos que desenvolvi e continuo aprimorando ao longo da minha trajetória acadêmica e profissional. Meu objetivo é transformar dados em insights valiosos para apoiar a tomada de decisões.
 
-*Observação: Alguns dados são particulares e serão mostrados os prints com informaações ficticias. Também pode conter dados de fontes públicas com o objetivo de testar e colocar em prática o uso de ferramentas e técnicas.*
+*Observação: Alguns dados são sigilosos, por isso, serão apresentados prints com informações fictícias. Além disso, o repositório pode conter dados de fontes públicas, utilizados para testar e aplicar técnicas e ferramentas de análise de dados.*
 
 ------------
 
